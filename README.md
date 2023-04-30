@@ -1,4 +1,4 @@
-# Starting point
+# no-ublue
 
 [![build-ublue](https://github.com/simon-truhter/no-ublue/actions/workflows/build.yml/badge.svg)](https://github.com/simon-truhter/no-ublue/actions/workflows/build.yml)
 
